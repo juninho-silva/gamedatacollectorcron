@@ -1,0 +1,23 @@
+# Arquivos de ambiente
+.env
+
+# Binários
+*.exe
+*.out
+*.test
+
+# Diretórios do Go
+/bin/
+/pkg/
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+
+# Dependências geradas por go get (opcional)
+vendor/
