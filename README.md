@@ -38,9 +38,9 @@ go mod tidy
 3. Crie um arquivo .env:
 
 ```bash
-APIKEY="fa80ea3611ef4484a6475bccfb634ec8"
+APIKEY=""
 URL="https://api.rawg.io/api/games"
-MONGOURI="mongodb://localhost:27017/"
+MONGOURI=""
 ```
 
 4. Executando o projeto:
